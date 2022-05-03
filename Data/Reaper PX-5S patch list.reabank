@@ -1,0 +1,779 @@
+// ----------------------------------------------------------------------//            //               CASIO Privia PX-5S 
+//             Reaper patch list V 0.9
+//           by Mike Martin, Casio America, Inc.
+// ----------------------------------------------------------------------
+
+
+Bank 64 0 Piano
+0 GrPnoConcert
+1 Rock Piano
+2 GrPno Studio
+3 GrPno Modern
+4 LA Piano
+5 Dance Piano
+6 GrPno Bright
+7 GrPno Mellow
+8 Mono Piano 1
+9 Mono Piano 2
+10 Tack Piano
+11 GrPnoClassic
+12 GrPno Dolce
+13 Honky-Tonk
+14 Octave Piano
+15 StringsPiano
+16 Piano Pad
+17 GM Piano1
+18 GM Piano2
+19 GM HonkyTonk
+20 User 20
+21 User 21
+22 User 22
+23 User 23
+24 User 24
+25 User 25
+26 User 26
+27 User 27
+28 User 28
+29 User 29
+30 User 30
+31 User 31
+32 User 32
+33 User 33
+34 User 34
+35 User 35
+36 User 36
+37 User 37
+38 User 38
+39 User 39
+
+
+Bank 65 0 Elec Piano
+0 AiR E.Piano1
+1 AiR E.Piano2
+2 AiR E.Piano3
+3 AiR E.Piano4
+4 AiR E.Piano5
+5 AiR 60's EP 1
+6 Elec.Piano 
+7 AiR 60's EP 3
+8 AiR 60's EP 4
+9 Elec.Piano 1
+10 Elec.Piano 2
+11 Elec.Piano 3
+12 Elec.Piano 4
+13 Elec.Piano 5
+14 Digital EP 1
+15 Digital EP 2
+16 Digital EP 3
+17 Digital EP 4
+18 Digital EP 5
+19 Digital EP 6
+20 Digital EP 7
+21 Digital EP 8
+22 Digital EP 9
+23 DynoE.Piano1
+24 DynoE.Piano2
+25 60'sE.Piano1
+26 60'sE.Piano2
+27 Phaser EP 1
+28 Phaser EP 2
+29 Amp E.Piano 1
+30 Amp E.Piano 2
+31 Crunch EP
+32 Dizzy EP
+33 Analog EP
+34 Analog EP 2
+35 OffVelClavi1
+36 OffVelClavi2
+37 Clavi 1
+38 Clavi 2
+39 Clavi 3
+40 Clavi 4
+41 Wah Clavi 1
+42 Wah Clavi 2
+43 Crunch Clavi
+44 OffVelHarpsi
+45 Harpsichord
+46 Coupl.Harpsi
+47 Vibraphone
+48 GM. E.Piano 1
+49 GM. E.Piano 2
+50 GM. E.G.Piano
+51 GM Harpsi
+52 GM Clavi
+53 GM Celesta
+54 GM Glocken
+55 GM Music Box
+56 GM Vibraphon
+57 GM Marimba
+58 GM Xylophone
+59 GM Tubular Bell
+60 User 60
+61 User 61
+62 User 62
+63 User 63
+64 User 64
+65 User 65
+66 User 66
+67 User 67
+68 User 68
+69 User 69
+70 User 70
+71 User 71
+72 User 72
+73 User 73
+74 User 74
+75 User 75
+76 User 76
+77 User 77
+78 User 78
+79 User 79
+80 User 80
+81 User 81
+82 User 82
+83 User 83
+84 User 84
+85 User 85
+86 User 86
+87 User 87
+88 User 88
+89 User 89
+90 User 90
+91 User 91
+92 User 92
+93 User 93
+94 User 94
+95 User 95
+96 User 96
+97 User 97
+98 User 98
+99 User 99
+100 User 100
+101 User 101
+102 User 102
+103 User 103
+104 User 104
+105 User 105
+106 User 106
+107 User 107
+108 User 108
+109 User 109
+
+Bank 66 0 Organ
+0 Rock Organ1
+1 Rock Organ 2
+2 Rock Organ 3
+3 Jazz Organ 1
+4 Jazz Organ 2
+5 Perc. Organ 1
+6 Perc. Organ 2
+7 Perc. Organ 3
+8 Drawbar Org1
+9 Drawbar Org2
+10 Drawbar Org3
+11 Elec.Organ1
+12 Elec.Organ2
+13 Elec.Organ3
+14 70's Organ
+15 Overdrive Organ1
+16 Overdrive Organ2
+17 Tremolo Organ
+18 Click Organ
+19 Click Organ
+20 Gospel ORgan
+21 Chapel Organ
+22 GM Organ 1
+23 GM Organ 2
+24 GM Organ 3
+25 GM PipeOrgan
+26 GM ReedOrgan
+27 GM Accordion
+28 Harmonica
+29 Bandoneon
+30 User 30
+31 User 31
+32 User 32
+33 User 33
+34 User 34
+35 User 35
+36 User 36
+37 User 37
+38 User 38
+39 User 39
+40 User 40
+41 User 41
+42 User 42
+43 User 43
+44 User 44
+45 User 45
+46 User 46
+47 User 47
+48 User 48
+49 User 49
+
+Bank 67 0 Strings 
+0 StreoString1
+1 StreoString2
+2 String Ens.
+3 Slow Strings
+4 BriteStrings
+5 Warm Strings
+6 Syn-Strings1
+7 Syn-Strings2
+8 Syn-Strings3
+9 70's Syn-Str
+10 80's Syn-Str
+11 ViolnSection
+12 OrchestraPad
+13 Choir
+14 Synth-Voice1
+15 Synth-Voice2
+16 VoiceEnsembl
+17 SynVoice Pad
+18 Stereo Brass
+19 BrassSection
+20 Syn-Brass 1
+21 Syn-Brass 2
+22 80'sSynBrass
+23 Brass Ens.
+24 Breathy ASax
+25 Breathy TSax
+26 Alto Sax
+27 Tenor Sax
+28 Flute
+29 Trumpet
+30 GM Violin
+31 GM Viola
+32 GM Cello
+33 GM Contrabas
+34 GM Trem.Str.
+35 GM Pizzicato
+36 GM Harp
+37 GM Timpani
+38 GM Strings 1
+39 GM Strings 2
+40 GM Syn-Str.1
+41 GM Syn-Str.2
+42 GM ChoirAahs
+43 GM Voice Doo
+44 GM Syn-Voice
+45 GM Orch.Hit
+46 GM Trumpet
+47 GM Trombone
+48 GM Tuba
+49 GM MtTrumpet
+50 GM Fr.Horn
+51 GM Brass
+52 GM SynBrass1
+53 GM SynBrass2
+54 GM Sop.Sax
+55 GM Alto Sax
+56 GM Tenor Sax
+57 GM Bar.Sax
+58 GM Oboe
+59 GM Eng.Horn
+60 GM Bassoon
+61 GM Clarinet
+62 GM Piccolo
+63 GM Flute
+64 GM Recorder
+65 GM Pan Flute
+66 GM BotleBlow
+67 GM Shakuhach
+68 GM Whistle
+69 GM Ocarina
+70 User 70
+71 User 71
+72 User 72
+73 User 73
+74 User 74
+75 User 75
+76 User 76
+77 User 77
+78 User 78
+79 User 79
+80 User 80
+81 User 81
+82 User 82
+83 User 83
+84 User 84
+85 User 85
+86 User 86
+87 User 87
+88 User 88
+89 User 89
+ 
+Bank 68 0 Guitar/Bass  
+0 Acous.Bass 1
+1 Acous.Bass 2
+2 Ride Bass
+3 FingerBass 1
+4 FingerBass 2
+5 FingerBass 3
+6 Picked Bass
+7 Synth-Bass 1
+8 Synth-Bass 2
+9 Synth-Bass 3
+10 Synth-Bass 4
+11 Synth-Bass 5
+12 Synth-Bass 6
+13 Trance Bass
+14 Nylon Guitar
+15 Steel Guitar
+16 Jazz Guitar
+17 Clean Guitar
+18 Cho.CleanGt
+19 Crunch E.Gt
+20 Overdrive Gt
+21 Mute Ovd Gt
+22 Overdrive G2
+23 DistortionGt
+24 GM Nylon Gt
+25 GM Steel Gt
+26 GM Jazz Gt
+27 GM Clean Gt
+28 GM Mute Gt
+29 GM Overdrive
+30 GM Dist.Gt
+31 GM Gt Harm.
+32 GM AcousBass
+33 GM Finger Bs
+34 GM Pick Bass
+35 GM FretlesBs
+36 GM SlapBass1
+37 GM SlapBass2
+38 GM Syn-Bass1
+39 GM Syn-Bass2
+40 User 40
+41 User 41
+42 User 42
+43 User 43
+44 User 44
+45 User 45
+46 User 46
+47 User 47
+48 User 48
+49 User 49
+50 User 50
+51 User 51
+52 User 52
+53 User 53
+54 User 54
+55 User 55
+56 User 56
+57 User 57
+58 User 58
+59 User 59
+
+Bank 69 0 Synth  
+0 Saw Lead 1
+1 Saw Lead 2
+2 Saw Lead 3
+3 MelowSawLead
+4 Square Lead1
+5 Square Lead2
+6 Pulse Lead 1
+7 Pulse Lead 2
+8 Sine Lead
+9 Sqr Pulse Ld
+10 VA Synth 1
+11 VA Synth 2
+12 VA Synth 3
+13 VA Synth 4
+14 VA Synth 5
+15 Sequence Saw
+16 Saw Arpeggio
+17 VA SynSeqBs1
+18 VA SynSeqBs2
+19 VA SynSeqBs3
+20 Fantasy
+21 New Age
+22 Warm Pad
+23 Warm Vox
+24 PolysynthPad
+25 Syn-Pad
+26 BrightSawPad
+27 AtmspherePad
+28 VA Syn-Pad 1
+29 VA Syn-Pad 2
+30 VA Syn-Pad 3
+31 GM Squ.Lead
+32 GM Saw Lead
+33 GM Calliope
+34 GM ChiffLead
+35 GM Charang
+36 GM VoiceLead
+37 GM FifthLead
+38 GM Bass+Lead
+39 GM Fantasy
+40 GM Warm Pad
+41 GM PolySynth
+42 GM Space Cho
+43 GM Bow Glass
+44 GM Metal Pad
+45 GM Halo Pad
+46 GM Sweep Pad
+47 GM Rain Drop
+48 GM SoundTrak
+49 GM Crystal
+50 GM Atmosphre
+51 GM Brightnes
+52 GM Goblins
+53 GM Echoes
+54 GM SF
+55 GM Sitar
+56 GM Banjo
+57 GM Shamisen
+58 GM Koto
+59 GM Thumb Pno
+60 GM Bagpipe
+61 GM Fiddle
+62 GM Shanai
+63 GM Dulcimer
+64 GM TinkleBel
+65 GM Agogo
+66 GM SteelDrum
+67 GM WoodBlock
+68 GM Taiko
+69 GM Melo. Tom
+70 GM Syn-Drum
+71 GM RevCymbal
+72 GM GtFrNoise
+73 GM BrthNoise
+74 GM Seashore
+75 GM Bird
+76 GM Telephone
+77 GM Helicoptr
+78 GM Applause
+79 GM Gunshot
+80 User 80
+81 User 81
+82 User 82
+83 User 83
+84 User 84
+85 User 85
+86 User 86
+87 User 87
+88 User 88
+89 User 89
+90 User 90
+91 User 91
+92 User 92
+93 User 93
+94 User 94
+95 User 95
+96 User 96
+97 User 97
+98 User 98
+99 User 99
+100 User 100
+101 User 101
+102 User 102
+103 User 103
+104 User 104
+105 User 105
+106 User 106
+107 User 107
+108 User 108
+109 User 109
+110 User 110
+111 User 111
+112 User 112
+113 User 113
+114 User 114
+115 User 115
+116 User 116
+117 User 117
+118 User 118
+119 User 119
+120 User 120
+121 User 121
+122 User 122
+123 User 123
+124 User 124
+125 User 125
+126 User 126
+127 User 127
+
+Bank 125 0 Drums 
+0 StandardSet1
+1 StandardSet2
+2 StandardSet3
+3 StandardSet4
+4 Dance Set 1
+5 Dance Set 2
+6 Dance Set 3
+7 Trance Set
+8 Hip-Hop Set
+9 Room Set
+10 Power Set
+11 Rock Set
+12 Elec.Set
+13 Synth Set 1
+14 Synth Set 2
+15 Jazz Set
+16 Brush Set
+17 OrchestraSet
+18 Ethnic Set 1
+19 Ethnic Set 2
+20 User 20
+21 User 21
+22 User 22
+23 User 23
+24 User 24
+25 User 25
+26 User 26
+27 User 27
+28 User 28
+29 User 29
+30 User 30
+31 User 31
+32 User 32
+33 User 33
+34 User 34
+35 User 35
+36 User 36
+37 User 37
+38 User 38
+39 User 39
+ 
+Bank 97 0 Hex Layer  
+0 PX HexTone00
+1 PX HexTone01
+2 PX HexTone02
+3 PX HexTone03
+4 PX HexTone04
+5 PX HexTone05
+6 PX HexTone06
+7 PX HexTone07
+8 PX HexTone08
+9 PX HexTone09
+10 Ice Castles
+11 House Top
+12 Maximum
+13 Midnight Sun
+14 Orchestra
+15 PX-Pad
+16 Alore Ye
+17 Transed Saw
+18 Hex SynBrass
+19 HexSynVoices
+20 Hex Mf Piano
+21 Hex JunglePf
+22 Hex BasicEP1
+23 Hex BasicEP2
+24 Hex BasicEP3
+25 Hex BasicEP4
+26 Hex BasicEP5
+27 Hex BasicEP6
+28 Hex EleClav1
+29 Hex EleClav2
+30 HexEnsemble1
+31 HexEnsemble2
+32 HexPipeOrgan
+33 Hex SaxLayer
+34 HexWoodLayer
+35 HexReedLayer
+36 HexTopOctave
+37 HexPickLayer
+38 Hex Split1
+39 Hex Split2
+40 Hex SynLead1
+41 Hex SynLead2
+42 Hex SynLead3
+43 Hex SynLead4
+44 Hex SynLead5
+45 Hex SynBasic1
+46 Hex SynBasic2
+47 Hex SynBasic3
+48 Hex SynBasic4
+49 Hex SynBasic5
+50 50
+51 51
+52 52
+53 53
+54 54
+55 55
+56 56
+57 57
+58 58
+59 59
+60 60
+61 61
+62 62
+63 63
+64 64
+65 65
+66 66
+67 67
+68 68
+69 69
+70 70
+71 71
+72 72
+73 73
+74 74
+75 75
+76 76
+77 77
+78 78
+79 79
+80 80
+81 81
+82 82
+83 83
+84 84
+85 85
+86 86
+87 87
+88 88
+89 89
+90 90
+91 91
+92 92
+93 93
+94 94
+95 95
+96 96
+97 97
+98 98
+99 99
+100 100
+101 101
+102 102
+103 103
+104 104
+105 105
+106 106
+107 107
+108 108
+109 109
+110 110
+111 111
+112 112
+113 113
+114 114
+115 115
+116 116
+117 117
+118 118
+119 119
+120 120
+121 121
+122 122
+123 123
+124 124
+125 125
+126 126
+127 127
+ 
+Bank 67 0 Hex Layer 128-199 
+0 128
+1 129
+2 130
+3 131
+4 132
+5 133
+6 134
+7 135
+8 136
+9 137
+10 138
+11 139
+12 140
+13 141
+14 142
+15 143
+16 144
+17 145
+18 146
+19 147
+20 148
+21 149
+22 150
+23 151
+24 152
+25 153
+26 154
+27 155
+28 156
+29 157
+30 158
+31 159
+32 160
+33 161
+34 162
+35 163
+36 164
+37 165
+38 166
+39 167
+40 168
+41 169
+42 170
+43 171
+44 172
+45 173
+46 174
+47 175
+48 176
+49 177
+50 178
+51 179
+52 180
+53 181
+54 182
+55 183
+56 184
+57 185
+58 186
+59 187
+60 188
+61 189
+62 190
+63 191
+64 192
+65 193
+66 194
+67 195
+68 196
+69 197
+70 198
+71 199
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
